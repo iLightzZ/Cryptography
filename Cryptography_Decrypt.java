@@ -12,8 +12,8 @@ public class Cryptography_Decrypt
     System.out.printf("%s%n%n%s%s%s%n%n", 
     "\t\t\t\t   ~Enforcing Privacy with Cryptography (Decryption)~",
     "The explosive growth of Internet communications and data storage on Internet-connected computers has greatly increased privacy concerns.", 
-    "The field of cryptography is concerned with coding data to make it difficult (and hopefully—with the most ",
-    "advanced schemes—impossible) for unauthorized users to read.");
+    "The field of cryptography is concerned with coding data to make it difficult (and hopefullyâ€”with the most ",
+    "advanced schemesâ€”impossible) for unauthorized users to read.");
     
     System.out.println("The following program will decrypt an encrypted data to form its original number.\n");
     
